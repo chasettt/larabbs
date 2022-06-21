@@ -1,4 +1,9 @@
 {
-    "/js/app.js": "/js/app.js?id=3bfe72863d5dba1f09d3b2820d2501ec",
-    "/css/app.css": "/css/app.css?id=5ba9fb371cce4731baff32e71e8389c0"
+    "/js/app.js": "/js/app.js?id=ad4453ade9e188d37200c694852bb88d",
+    "/css/app.css": "/css/app.css?id=7c5f84dcfd561535cfee2009c3b16947",
+    "/js/hotkeys.js": "/js/hotkeys.js?id=60b95061e721b635da02b5cc7792204b",
+    "/js/module.js": "/js/module.js?id=1f0206730b87684b7ad654a458319014",
+    "/js/simditor.js": "/js/simditor.js?id=e19ffe3d664de3d4228a9bd3573b4a6b",
+    "/js/uploader.js": "/js/uploader.js?id=0e7f04273d8e2a0a834c6884635bb6d9",
+    "/css/simditor.css": "/css/simditor.css?id=69eb7767d3b20549b33fafd8e1255363"
 }
