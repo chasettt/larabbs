@@ -71,9 +71,8 @@ class Kernel extends HttpKernel
 
         // API 中间件组，应用于 routes/api.php 路由文件，
         'api' => [
-            // 使用别名来调用中间件
-            // \Laravel\Sanctum\Http\Middleware\EnsureFrontendRequestsAreStateful::class,
-            'throttle:api',
+            \App\Http\Middleware\AcceptHeader::class,
+            'throttle:60,1',
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
         ],
     ];

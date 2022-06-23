@@ -6,6 +6,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "doctrine/dbal": "^3.3",
+        "gregwar/captcha": "^1.1",
         "guzzlehttp/guzzle": "^7.2",
         "intervention/image": "^2.7",
         "laravel/framework": "^9.11",
@@ -14,6 +16,7 @@
         "laravel/tinker": "^2.7",
         "mews/captcha": "~3.0",
         "mews/purifier": "~3.3",
+        "overtrue/easy-sms": "^2.2",
         "overtrue/laravel-lang": "~6.0",
         "overtrue/pinyin": "~4.0",
         "predis/predis": "~1.1",
